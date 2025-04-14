@@ -1,4 +1,4 @@
-package org.practice;
+package org.practice.daily_challenge;
 
 import javafx.util.Pair;
 

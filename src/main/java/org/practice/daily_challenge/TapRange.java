@@ -1,4 +1,4 @@
-package org.practice;
+package org.practice.daily_challenge;
 
 public class TapRange implements Comparable<TapRange>{
     private final int left;
